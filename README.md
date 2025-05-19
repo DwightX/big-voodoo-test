@@ -27,8 +27,7 @@ This theme is a modified version of the **Twenty Twenty-Five** WordPress theme (
 - PHP 7.2+
 
 ## Included Files
-- `/theme/` - All theme files
-- `/database/` - SQL dump of demo content (if applicable)
-
+- `/Theme/` - Folder that includes the theme and database folders.
+- 
 ## License
 Like the original Twenty Twenty-Five theme, this modified version is released under the GNU General Public License v2 or later.
